@@ -4,9 +4,9 @@
 
 <script>
 export default {
-    name: "Timestamp",
+    name: "timestamp",
     props:{
-        timeStamp: String,
+        timestamp: String,
     }
 
 }

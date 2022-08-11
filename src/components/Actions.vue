@@ -10,10 +10,10 @@
 
 <script>
 export default {
-    name:actions,
+    /* name:actions,
     props:{
         actions:
-    }
+    } */
 
 }
 </script>
